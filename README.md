@@ -35,6 +35,7 @@ sample usage
 ... \ExpenseTracker> python mian.py list        
 Your current expenses:
 2 | lunch | 2024-09-25 | 12.0
+
 Total expenses : 12.0
 
 if you want to list specific month expenses you can use -m with the list command
@@ -44,6 +45,7 @@ sample usage
 ... \ExpenseTracker> python mian.py list -m 9    
 Your current expenses for month 9: 
 2 | lunch | 2024-09-25 | 12.0
+
 Total expenses for month 9: 12.0
 
 # summary 
